@@ -2,9 +2,8 @@
 A Rust application to view your gifs collection.
 
 ## Features
-- Connect phantom wallet
-- Send gifs
-- Upvote gifs
+- Add gif
+- Upvote gif
 - Remove your own gifs
 
 ## In progress
