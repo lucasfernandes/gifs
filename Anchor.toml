@@ -1,0 +1,15 @@
+[programs.localnet]
+# gifs = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+gifs = "AqNLGb2kgHLUsCfjBfssNqarQXx9W2RuRx9v3PV3Fygt"
+
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+# cluster = "localnet"
+cluster = "devnet"
+wallet = "/Users/lucassilveira/.config/solana/id.json"
+
+[scripts]
+test = "node tests/gifs.js"
